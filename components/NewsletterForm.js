@@ -2,7 +2,7 @@ import { useRef, useState } from 'react'
 
 import siteMetadata from '@/data/siteMetadata'
 
-const NewsletterForm = ({ title = 'Subscribe to the newsletter' }) => {
+const NewsletterForm = ({ title = 'Subscribe to my weekly newsletter' }) => {
   const inputEl = useRef(null)
   const [error, setError] = useState(false)
   const [message, setMessage] = useState('')
@@ -36,7 +36,10 @@ const NewsletterForm = ({ title = 'Subscribe to the newsletter' }) => {
 
   return (
     <div>
-      <div className="pb-1 text-lg font-semibold text-gray-800 dark:text-gray-100">{title}</div>
+      <div className="pb-4 text-3xl font-semibold text-gray-800 dark:text-sky-400">{title}</div>
+      <div className="text-large pb-6 text-gray-700 dark:text-slate-100">
+        Subscribe to stay up to date with my latest news, tutorials, and deals!
+      </div>
       <form className="flex flex-col sm:flex-row" onSubmit={subscribe}>
         <div>
           <label className="sr-only" htmlFor="email-input">

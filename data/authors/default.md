@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Andrew Weisbeck
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Full Stack Developer
+company: GeauxWeisbeck4
+email: geauxweisbeck4@gmail.com
+twitter: https://twitter.com/GeauxWeisbeck4
+linkedin: https://www.linkedin.com/in/geauxweisbeck4
+github: https://github.com/geauxweisbeck4
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Andrew Weisbeck is a freelance full-stack developer who specializes in helping out small businesses, non-profits, and other creative individuals to build their web presence through programming, marketing, and graphic design.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+He has two brands that he currently operates under - GeauxWeisbeck4 and Tar Heel Dev Studio. There are potentially more SaaS businesses in the works, but he operates under these two logos primarily.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When Andrew is not too busy reviewing code, recommending solutions to clients, or building new apps, you can find him walking around with his fiance, Lisa, just enjoying mother nature. He also is a fan of programming for fun and learning, so he is always doing that as well. His favorite teams are the Nebraska Cornhuskers, UNC Tarheels, LSU Tigers, Kansas City Royals, Carolina Hurricanes, and New England Patriots.

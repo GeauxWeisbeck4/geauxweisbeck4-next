@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'GeauxWeisbeck4.dev',
+    description: `Version 2.0 was created without much of a plan, nonetheless, it was created. Actually I didn't have a lot of time when I made it, so I am working on version 3.0 now.`,
+    imgSrc: '/static/images/geauxweisbeck4-dev.png',
+    href: '/blog/geauxweisbeck4-dev-version-2',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Andrews Digital Garden',
+    description: `A public working space, a note collection site, a place to thread ideas together - whatever you want to call it, its a digital garden.`,
+    imgSrc: '/static/images/digitalgarden.png',
+    href: '/blog/project-andrews-digital-garden',
   },
 ]
 
